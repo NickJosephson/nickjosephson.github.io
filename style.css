@@ -4,6 +4,11 @@ body {
     font-family: "Lucida Console", Monaco, monospace;
 }
 
+#window {
+    width: 800px;
+    
+}
+
 #header {
     text-align: center;
     background-color: gray;  
