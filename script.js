@@ -1,9 +1,7 @@
 function blink() {
-    setInterval(function(){ 
-        blinkWhite;
-        setTimeout(blinkBlack, 1000);
+    setInterval(blinkWhite(){ 
+        setTimeout(blinkBlack, 500);
     }, 1000);
-    
 }
 
 function blinkWhite() {
@@ -11,5 +9,5 @@ function blinkWhite() {
 }
 
 function blinkBlack() {
-    document.getElementById("marker").style.backgroundColor="black";
+    Document.getElementById("marker").style.backgroundColor="black";
 }

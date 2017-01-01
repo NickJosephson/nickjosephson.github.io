@@ -24,3 +24,14 @@ body {
 #nav {
     float: left;
 }
+
+/* @group Blink */
+.blink {
+	 animation: blink .75s linear infinite;
+}
+@keyframes blink {
+	0% { opacity: 1; }
+	50% { opacity: 1; }
+	50.01% { opacity: 0; }
+	100% { opacity: 0; }
+}
