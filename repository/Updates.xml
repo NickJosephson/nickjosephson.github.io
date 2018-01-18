@@ -1,12 +1,12 @@
 <Updates>
  <ApplicationName>{AnyApplication}</ApplicationName>
- <ApplicationVersion>1.0.0</ApplicationVersion>
+ <ApplicationVersion>2.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
   <Name>com.vendor.product</Name>
   <DisplayName>Tracy</DisplayName>
   <Description>Install this example.</Description>
-  <Version>0.1.0-1</Version>
+  <Version>0.2.0-1</Version>
   <ReleaseDate>2010-09-21</ReleaseDate>
   <Default>true</Default>
   <UpdateFile CompressedSize="16205654" OS="Any" UncompressedSize="58613632"/>
