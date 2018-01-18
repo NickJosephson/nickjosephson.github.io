@@ -1,0 +1,19 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.vendor.product</Name>
+  <DisplayName>Tracy</DisplayName>
+  <Description>Install this example.</Description>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2010-09-21</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile CompressedSize="16205654" OS="Any" UncompressedSize="58613632"/>
+  <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,qmltooling.7z,scenegraph.7z,styles.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License name="License Agreement" file="license.txt"/>
+  </Licenses>
+  <SHA1>db6213e341074e7e418abf0a70b5067905d04169</SHA1>
+ </PackageUpdate>
+</Updates>
