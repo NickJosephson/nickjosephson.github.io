@@ -40,6 +40,10 @@ h2 {
 
 a {
     text-decoration:none;
+    color: #fff;
+    &:hover {
+      text-decoration: underline;
+    }
 }
 
 @keyframes blink {
