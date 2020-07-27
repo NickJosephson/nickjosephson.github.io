@@ -1,3 +1,3 @@
 # nickjosephson.github.io
 
-This is the repository for my website source
+This is a repository for my personal website.
